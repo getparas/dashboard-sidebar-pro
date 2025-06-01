@@ -29,8 +29,8 @@ A modern, customizable sidebar pro built with Next.js, TypeScript, Shadcn UI, an
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/dashboard-sidebar-component.git
-cd dashboard-sidebar-component
+git clone https://github.com/getparas/dashboard-sidebar-pro
+cd dashboard-sidebar-pro
 ```
 
 ```bash
